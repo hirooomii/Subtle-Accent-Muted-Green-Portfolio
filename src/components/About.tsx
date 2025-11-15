@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Code2, Palette, Zap, User, GraduationCap, Mail, MapPin } from "lucide-react";
-import Profile from "@/assets/profile.jpg";
+import Profile from "@/assets/Profile.jpg";
 
 export const About = () => {
   const features = [
